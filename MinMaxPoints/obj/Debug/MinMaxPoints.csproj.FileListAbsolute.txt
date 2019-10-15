@@ -1,0 +1,7 @@
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\obj\Debug\MinMaxPoints.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\obj\Debug\MinMaxPoints.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\bin\Debug\MinMaxPoints.exe.config
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\bin\Debug\MinMaxPoints.exe
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\bin\Debug\MinMaxPoints.pdb
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\obj\Debug\MinMaxPoints.exe
+C:\Users\DSP\source\repos\MinMaxPoints\MinMaxPoints\obj\Debug\MinMaxPoints.pdb
